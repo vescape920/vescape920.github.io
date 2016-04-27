@@ -1,7 +1,7 @@
-title: LNMP100 
-name: LNMP100
-email: quanlongwang@gmail.com
-description: LNMP100 GitHub:https://github.com/qloog。
+title: vescape920 
+name: vescape920
+email: vescape920@gmail.com
+description: Blog GitHub:https://github.com/vescape920
 keywords: Laravel
 skill_keywords: [
     PHP, MySQL, Linux, Redis, Memcache, Laravel,
@@ -14,13 +14,13 @@ skill_keywords: [
 timezone:    PRC
 encoding: "utf-8"
 
-url: http://lnmp100.com
+url: http://vescape920.github.io
 baseurl:  "/"
-domain:    lnmp100.com
+domain:   vescape920.github.io
 permalink:     /:year/:month/:day/:title.html
 paginate_path: 'page:num'
 paginate:   10
-source_code: https://github.com/qloog/qloog.github.io
+source_code: https://github.com/vescape920/vescape920.github.io
 
 # Build settings
 markdown:    kramdown
@@ -62,7 +62,7 @@ navs:
     label: Open-Source
 
   -
-    href: https://github.com/qloog
+    href: https://github.com/vescape920
     label: GitHub
     target: _blank
 
